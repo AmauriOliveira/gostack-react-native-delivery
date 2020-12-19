@@ -37,7 +37,7 @@ Feel free to check [issues page](https://github.com/AmauriOliveira/gostack-react
 
 **Amauri Oliveira**
 * Email: amauriibate32@hotmail.com
-* GitHub: [@](https://github.com/)
+* GitHub: [@AmauriOliveira](https://github.com/AmauriOliveira)
 * LinkedIn: [@amauri-oliveira-058066192](https://linkedin.com/in/amauri-oliveira-058066192)
 
 ## :books: License
