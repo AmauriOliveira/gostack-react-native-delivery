@@ -5,7 +5,7 @@
 
 > GoRestaurant Mobile
 
-![GitHub last commit](https://img.shields.io/github/last-commit/amauripliveira/gostack-react-native-delivery)
+![GitHub last commit](https://img.shields.io/github/last-commit/amaurioliveira/gostack-react-native-delivery)
 ![license](https://img.shields.io/github/license/amaurioliveira/gostack-react-native-delivery)
 ![GitHub repo size](https://img.shields.io/github/repo-size/amaurioliveira/gostack-react-native-delivery)
 
